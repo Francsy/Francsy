@@ -5,13 +5,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/franvhdez" target="_blank">
+  <a href="https://www.linkedin.com/in/franvhdez" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0867C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="./documents/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-333138?style=for-the-badge&logo=read.cv&logoColor=white" alt="CV Badge"/>
   </a>
-  <a href="mailto:[franvhdezr@gmail.com]?subject=I am contacting you after seeing your github profile!">
+  <a href="mailto:franvhdezr@gmail.com?subject=I am contacting you after seeing your github profile!">
     <img src="https://img.shields.io/badge/mail&nbsp;me!-EAE1DF?style=for-the-badge&logo=Minutemailer&logoColor=black" alt="Mail Badge"/>
 
   </a>
