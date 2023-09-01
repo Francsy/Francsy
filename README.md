@@ -63,6 +63,7 @@ Flexible location, continuous learning, and creativity are integral parts of my 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" title="Firebase" alt="Firebase" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" title="Docker" alt="Docker" /></a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" width="36" height="36" title="Sequelize" alt="Sequelize" /></a>
+<a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+pug-1324451462348933576.png" width="36" height="36" title="Pug" alt="Pug" /></a>
 </p>
 
 ---
@@ -72,7 +73,7 @@ Flexible location, continuous learning, and creativity are integral parts of my 
 * 🌍  I'm based in Spain.
 * 🤝  I'm open to collaborating.
 * ✉️  You can contact me at [franvhdezr@gmail.com](mailto:franvhdezr@gmail.com).
-* ⚡ Connect with me on [LinkedIn](www.linkedin.com/in/franvhdez).
+* ⚡ Connect with me on [LinkedIn](https://www.linkedin.com/in/franvhdez).
 
 
 
