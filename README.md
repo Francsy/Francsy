@@ -20,48 +20,82 @@
 
 <br>
 
+
 <h1 align="center">
-  Hello there! My name is Fran
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  < Hi! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> This is Fran coding! />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 </div>
 
+
+
+
+Full Stack Developer 
 ---
 
-### About Me :
-I am a Full Stack Developer from Spain.
+Welcome to my GitHub profile. I'm an enthusiastic code voyager navigating the vast digital cosmos. This is the space I love to use to open my mind, create and develop ideas, and solve the challenges that arise in the vast and ever-expanding universe of programming. I'm also eager to connect with fellow enthusiast.
+
+Flexible location, continuous learning, and creativity are integral parts of my daily journey.
 
 ---
 
+### Main skills & expertise:
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" title="JavaScript (ES6)" alt="JavaScript (ES6)" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" title="Git" alt="Git" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" title="ReactJS" alt="ReactJS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" title="HTML5" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" title="CSS3" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" title="Sass" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" title="TailwindCSS" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" title="Bootstrap" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" title="Material UI" alt="Material UI" /></a>
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" title="Chakra UI" alt="Chakra UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" title="Redux" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" title="NodeJS" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" title="Express" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" title="MongoDB" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" title="PostgreSQL" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" title="Firebase" alt="Firebase" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" title="Docker" alt="Docker" /></a>
+<a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" width="36" height="36" title="Sequelize" alt="Sequelize" /></a>
+<a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+pug-1324451462348933576.png" width="36" height="36" title="Pug" alt="Pug" /></a>
+</p>
+
+---
+
+### More info:
+
+* 🌍  I'm based in Spain.
+* 🤝  I'm open to collaborating.
+* ✉️  You can contact me at [franvhdezr@gmail.com](mailto:franvhdezr@gmail.com).
+* ⚡ Connect with me on [LinkedIn](https://www.linkedin.com/in/franvhdez).
 
 
 
 
-### How to reach me: 
-
-- Send me an email to: franvhdezr@gmail.com
+<br>
 
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/franvhdez).
+<p align="center"> 
+<a href="https://www.linkedin.com/in/franvhdez" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.github.com/francsy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+</a> <a href="mailto:franvhdezr@gmail.com?subject=I am contacting you after seeing your github profile!" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/graphicloads/100-flat/128/email-2-icon.png" width="32" height="32" /> </picture> </a></p>
 
+---
 
-<!--
-**Francsy/Francsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Badges:
 
-Here are some ideas to get you started:
+<b>My GitHub Stats</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="http://www.github.com/francsy"><img src="https://github-readme-stats.vercel.app/api?username=francsy&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="francsy's GitHub stats" /></a>
 
+<b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/francsy/MERN-videogames-e-commerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=francsy&repo=MERN-videogames-e-commerce&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/francsy/react-pokeapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=francsy&repo=react-pokeapp&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
+<div width="100%" align="center"><a href="https://github.com/francsy/TBProject03QuizV2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=francsy&repo=TBProject03QuizV2&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/francsy/MovieApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=francsy&repo=MovieApp&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
