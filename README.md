@@ -27,7 +27,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 </div>
 
 
@@ -81,7 +81,7 @@ Flexible location, continuous learning, and creativity are integral parts of my 
 
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/franvhdez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.linkedin.com/in/franvhdez" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.github.com/francsy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 </a> <a href="mailto:franvhdezr@gmail.com?subject=I am contacting you after seeing your github profile!" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/graphicloads/100-flat/128/email-2-icon.png" width="32" height="32" /> </picture> </a></p>
 
@@ -95,8 +95,6 @@ Flexible location, continuous learning, and creativity are integral parts of my 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/francsy/MERN-videogames-e-commerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=francsy&repo=MERN-videogames-e-commerce&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/francsy/react-pokeapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=francsy&repo=react-pokeapp&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/francsy/MERN-videogames-e-commerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=francsy&repo=MERN-videogames-e-commerce&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/francsy/react-pokeapp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=francsy&repo=react-pokeapp&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/francsy/TBProject03QuizV2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=francsy&repo=TBProject03QuizV2&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/francsy/MovieApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=francsy&repo=MovieApp&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
