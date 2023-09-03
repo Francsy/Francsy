@@ -85,22 +85,21 @@ Thanks for dropping by, hope you find some of my work interesting!!
 ---
 
 <details>
-  <summary><b>⚡&nbsp;&nbsp;GitHub Stats</b></summary>
+  <summary><b>&nbsp🚀&nbsp;&nbsp;GitHub Stats</b></summary>
 
   <br>
 
 <div align="center">
 <a href="http://www.github.com/francsy"><img src="https://github-readme-stats.vercel.app/api?username=francsy&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="francsy's GitHub stats" /></a>
-
+</div>
+<br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francsy&langs_count=10&title_color=0967C3&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </div>
 
 </details>
 
 
-<br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francsy&langs_count=10&title_color=0967C3&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</div>
 
 <br>
 
