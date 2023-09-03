@@ -73,11 +73,11 @@ Thanks for dropping by, hope you find some of my work interesting!!
 
 ### More info:
 
-* 🌍  I'm based in Spain.
-* <img src="./images/message.gif" width="14" />  I'm open to collaborating.
-* <img src="https://media.giphy.com/media/i2tLw5ZyikSFdkeGHT/giphy.gif" width="14" /> An idea that I´m currently in love with: [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes).
-* <img src="./images/letterbox.gif" width="14" />  You can contact me at [franvhdezr@gmail.com](mailto:franvhdezr@gmail.com).
-* <img src="./images/lightning.gif" width="12" />  Connect with me on [LinkedIn](https://www.linkedin.com/in/franvhdez).
+* &nbsp;🌍&nbsp;&nbsp; I'm based in Spain.
+* &nbsp;<img src="./images/message.gif" width="20" />&nbsp; I'm open to collaborating.
+* &nbsp;<img src="https://media.giphy.com/media/i2tLw5ZyikSFdkeGHT/giphy.gif" width="20" />&nbsp; An idea that I´m currently in love with: [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes).
+* &nbsp;<img src="./images/letterbox.gif" width="20" />&nbsp; You can contact me at [franvhdezr@gmail.com](mailto:franvhdezr@gmail.com).
+* &nbsp;&nbsp;<img src="./images/lightning.gif" width="12" />&nbsp;&nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/franvhdez).
 
 <!-- * <img src="./images/developer.gif" width="16" /> I’m currently learning TypeScript.
  -->
@@ -85,7 +85,7 @@ Thanks for dropping by, hope you find some of my work interesting!!
 ---
 
 <details>
-  <summary><b>&nbsp🚀&nbsp;&nbsp;GitHub Stats</b></summary>
+  <summary><b>&nbsp;&nbsp;🚀&nbsp;&nbsp;GitHub Stats</b></summary>
 
   <br>
 
