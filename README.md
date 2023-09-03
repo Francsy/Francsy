@@ -106,7 +106,7 @@ Thanks for dropping by, hope you find some of my work interesting!!
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0967C3&center=true&vCenter=true&width=435&lines=Nice+to+meet+you!!;%3C+Happy+coding+%2F+%3E;Have+a+nice+day!%F0%9F%91%8B)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0967C3&center=true&vCenter=true&width=435&lines=Nice+to+meet+you!!;%3C+Happy+coding+%2F+%3E;Have+a+nice+day!%F0%9F%91%8B)
 
 </div>
 
