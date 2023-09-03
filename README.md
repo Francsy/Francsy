@@ -23,11 +23,12 @@
 
 <h1 align="center">
   < Hi! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> This is Fran coding! />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> This is <span style="color:#0967C3">Fran</span>  coding! />
 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+  <!--  <img src="./images/dev-working_rounded.gif" href="https://github.com/francsy" alt="CoDiNg RocKs"  width="85%"/> -->
 </div>
 
 
@@ -39,6 +40,8 @@ Full Stack Developer
 Welcome to my GitHub profile. I'm an enthusiastic code voyager navigating the vast digital cosmos. This is the space I love to use to open my mind, create and develop ideas, and solve the challenges that arise in the vast and ever-expanding universe of programming. I'm also eager to connect with fellow enthusiast.
 
 Flexible location, continuous learning, and creativity are integral parts of my daily journey.
+
+Thanks for dropping by, hope you find some of my work interesting!!
 
 ---
 
@@ -71,13 +74,28 @@ Flexible location, continuous learning, and creativity are integral parts of my 
 ### More info:
 
 * 🌍  I'm based in Spain.
-* 🤝  I'm open to collaborating.
-* ✉️  You can contact me at [franvhdezr@gmail.com](mailto:franvhdezr@gmail.com).
-* ⚡ Connect with me on [LinkedIn](https://www.linkedin.com/in/franvhdez).
+* <img src="./images/message.gif" width="14" />  I'm open to collaborating.
+* <img src="https://media.giphy.com/media/i2tLw5ZyikSFdkeGHT/giphy.gif" width="14" /> An idea that I´m currently in love with: [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes).
+* <img src="./images/letterbox.gif" width="14" />  You can contact me at [franvhdezr@gmail.com](mailto:franvhdezr@gmail.com).
+* <img src="./images/lightning.gif" width="12" />  Connect with me on [LinkedIn](https://www.linkedin.com/in/franvhdez).
 
-
+<!-- * <img src="./images/developer.gif" width="16" /> I’m currently learning TypeScript.
+ -->
 
 ---
+
+<br>
+<details>
+  <summary><b>⚡&nbsp;&nbsp;GitHub Stats</b></summary>
+
+  <br>
+
+<a href="http://www.github.com/francsy"><img src="https://github-readme-stats.vercel.app/api?username=francsy&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="francsy's GitHub stats" /></a>
+
+
+
+</details>
+
 
 <br>
 <div align="center">
@@ -86,6 +104,11 @@ Flexible location, continuous learning, and creativity are integral parts of my 
 
 <br>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0967C3&center=true&vCenter=true&width=435&lines=Nice+to+meet+you!!;%3C+Happy+coding+%2F+%3E;Have+a+nice+day!%F0%9F%91%8B)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/franvhdez" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/> </picture> </a>
