@@ -110,9 +110,9 @@ Thanks for dropping by, hope you find some of my work interesting!!
 </div>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/franvhdez" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/> </picture> </a>
+<a href="https://www.linkedin.com/in/franvhdez" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/> </picture> </a>&nbsp;
 <a href="https://www.github.com/francsy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-</a> <a href="mailto:franvhdezr@gmail.com?subject=I am contacting you after seeing your github profile!" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/graphicloads/100-flat/128/email-2-icon.png" width="32" height="32" /> </picture> </a></p>
+</a>&nbsp;<a href="mailto:franvhdezr@gmail.com?subject=I am contacting you after seeing your github profile!" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/graphicloads/100-flat/128/email-2-icon.png" width="32" height="32" /> </picture> </a></p>
 
 
 
