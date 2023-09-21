@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/franvhdez" target="_blank">
+  <a href="https://www.linkedin.com/in/francsy" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0867C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.francsy.dev" target="_blank">
