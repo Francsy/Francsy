@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/franvhdez" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0867C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="./documents/Resume_Francsy.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-333138?style=for-the-badge&logo=read.cv&logoColor=white" alt="CV Badge"/>
+  <a href="https://www.francsy.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-333138?style=for-the-badge&logo=read.cv&logoColor=white" alt="CV Badge"/>
   </a>
   <a href="mailto:franvhdezr@gmail.com?subject=I am contacting you after seeing your github profile!">
     <img src="https://img.shields.io/badge/mail&nbsp;me!-EAE1DF?style=for-the-badge&logo=Minutemailer&logoColor=black" alt="Mail Badge"/>
@@ -75,9 +75,12 @@ Thanks for dropping by, hope you find some of my work interesting!!
 
 * &nbsp;🌍&nbsp;&nbsp; I'm based in Spain.
 * &nbsp;<img src="./images/message.gif" width="20" />&nbsp; I'm open to collaborating.
+* &nbsp;🖥️ &nbsp;  See my portfolio at [francsy.dev](http://www.francsy.dev)
 * &nbsp;<img src="https://media.giphy.com/media/i2tLw5ZyikSFdkeGHT/giphy.gif" width="20" />&nbsp; An idea that I´m currently in love with: [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes).
 * &nbsp;<img src="./images/letterbox.gif" width="20" />&nbsp; You can contact me at [franvhdezr@gmail.com](mailto:franvhdezr@gmail.com).
 * &nbsp;&nbsp;<img src="./images/lightning.gif" width="12" />&nbsp;&nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/franvhdez).
+
+
 
 <!-- * <img src="./images/developer.gif" width="16" /> I’m currently learning TypeScript.
  -->
@@ -102,6 +105,14 @@ Thanks for dropping by, hope you find some of my work interesting!!
 
 
 <br>
+<br/>
+
+<div align="center">
+  <img src="./images/bg.png" />
+  <!--  <img src="./images/dev-working_rounded.gif" href="https://github.com/francsy" alt="CoDiNg RocKs"  width="85%"/> -->
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -109,9 +120,11 @@ Thanks for dropping by, hope you find some of my work interesting!!
 
 </div>
 
+
+
 <p align="center"> 
 <a href="https://www.linkedin.com/in/franvhdez" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/> </picture> </a>&nbsp;
-<a href="https://www.github.com/francsy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.francsy.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://francsy.dev/logo.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://francsy.dev/logo.svg" /> <img src="https://francsy.dev/logo.svg" width="32" height="32" /> </picture> </a>
 </a>&nbsp;<a href="mailto:franvhdezr@gmail.com?subject=I am contacting you after seeing your github profile!" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/graphicloads/100-flat/128/email-2-icon.png" width="32" height="32" /> </picture> </a></p>
 
 
