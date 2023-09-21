@@ -34,7 +34,7 @@
 
 
 
-Full Stack Developer 
+Full Stack Web Developer 
 ---
 
 Welcome to my GitHub profile. I'm an enthusiastic code voyager navigating the vast digital cosmos. This is the space I love to use to open my mind, create and develop ideas, and solve the challenges that arise in the vast and ever-expanding universe of programming. I'm also eager to connect with fellow enthusiast.
