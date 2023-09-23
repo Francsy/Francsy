@@ -74,11 +74,12 @@ Thanks for dropping by, hope you find some of my work interesting!!
 ### More info:
 
 * &nbsp;🌍&nbsp;&nbsp; I'm based in Spain.
-* &nbsp;<img src="./images/message.gif" width="20" />&nbsp; I'm open to collaborating.
+* &nbsp;<img src="./images/message.gif" width="20" />&nbsp; I'm open to collaborating
 * &nbsp;🖥️ &nbsp;  See my portfolio at [francsy.dev](http://www.francsy.dev)
-* &nbsp;<img src="https://media.giphy.com/media/i2tLw5ZyikSFdkeGHT/giphy.gif" width="20" />&nbsp; An idea that I´m currently in love with: [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes).
-* &nbsp;<img src="./images/letterbox.gif" width="20" />&nbsp; You can contact me at [franvhdezr@gmail.com](mailto:franvhdezr@gmail.com).
-* &nbsp;&nbsp;<img src="./images/lightning.gif" width="12" />&nbsp;&nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/franvhdez).
+* &nbsp;🧠&nbsp; I'm currently learning Three.js and Typescript
+* &nbsp;<img src="https://media.giphy.com/media/i2tLw5ZyikSFdkeGHT/giphy.gif" width="20" />&nbsp; An idea that I´m currently in love with: [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
+* &nbsp;<img src="./images/letterbox.gif" width="20" />&nbsp; You can contact me at [franvhdezr@gmail.com](mailto:franvhdezr@gmail.com)
+* &nbsp;&nbsp;<img src="./images/lightning.gif" width="12" />&nbsp;&nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/franvhdez)
 
 
 
