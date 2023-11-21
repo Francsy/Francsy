@@ -39,7 +39,7 @@ Full Stack Web Developer
 
 Welcome to my GitHub profile. I'm an enthusiastic code voyager navigating the vast digital cosmos. This is the space I love to use to open my mind, create and develop ideas, and solve the challenges that arise in the vast and ever-expanding universe of programming. I'm also eager to connect with fellow enthusiast.
 
-Flexible location, continuous learning, and creativity are integral parts of my daily journey.
+Flexible location, continuous learning and creativity are integral parts of my daily journey.
 
 Thanks for dropping by, hope you find some of my work interesting!!
 
@@ -76,7 +76,7 @@ Thanks for dropping by, hope you find some of my work interesting!!
 * &nbsp;🌍&nbsp;&nbsp; I'm based in Spain.
 * &nbsp;<img src="./images/message.gif" width="20" />&nbsp; I'm open to collaborating
 * &nbsp;🖥️ &nbsp;  See my portfolio at [francsy.dev](http://www.francsy.dev)
-* &nbsp;🧠&nbsp; I'm currently learning Three.js and Typescript
+* &nbsp;🧠&nbsp; I'm currently learning PHP and Laravel
 * &nbsp;<img src="https://media.giphy.com/media/i2tLw5ZyikSFdkeGHT/giphy.gif" width="20" />&nbsp; An idea that I´m currently in love with: [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
 * &nbsp;<img src="./images/letterbox.gif" width="20" />&nbsp; You can contact me at [franvhdezr@gmail.com](mailto:franvhdezr@gmail.com)
 * &nbsp;&nbsp;<img src="./images/lightning.gif" width="12" />&nbsp;&nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/franvhdez)
@@ -105,28 +105,32 @@ Thanks for dropping by, hope you find some of my work interesting!!
 
 
 
-<br>
+<br/>
 <br/>
 
 <div align="center">
   <img src="./images/bg.png" />
   <!--  <img src="./images/dev-working_rounded.gif" href="https://github.com/francsy" alt="CoDiNg RocKs"  width="85%"/> -->
+</div><br/>
+
+
+
+
+<div align="center"> 
+<a style="margin: 5px" href="https://www.linkedin.com/in/franvhdez" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/> </picture>
+</a>
+<a style="margin: 5px" href="https://www.francsy.dev" target="_blank" rel="noreferrer">         
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://francsy.dev/logo.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://francsy.dev/logo.svg" /> 
+    <img src="https://francsy.dev/logo.svg" width="32" height="32" /> 
+  </picture> </a>
+</a>
+<a style="margin: 5px" href="mailto:franvhdezr@gmail.com?subject=I am contacting you after seeing your github profile!" target="_blank" rel="noreferrer">
+  <img src="https://icons.iconarchive.com/icons/graphicloads/100-flat/128/email-2-icon.png" width="32" height="32" />
+</a>
 </div>
-
-<br/>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0967C3&center=true&vCenter=true&width=435&lines=Nice+to+meet+you!!;%3C+Happy+coding+%2F+%3E;Have+a+nice+day!%F0%9F%91%8B)
-
-</div>
-
-
-
-<p align="center"> 
-<a href="https://www.linkedin.com/in/franvhdez" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/> </picture> </a>&nbsp;
-<a href="https://www.francsy.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://francsy.dev/logo.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://francsy.dev/logo.svg" /> <img src="https://francsy.dev/logo.svg" width="32" height="32" /> </picture> </a>
-</a>&nbsp;<a href="mailto:franvhdezr@gmail.com?subject=I am contacting you after seeing your github profile!" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/graphicloads/100-flat/128/email-2-icon.png" width="32" height="32" /> </picture> </a></p>
 
 
 
