@@ -5,13 +5,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/francsy" target="_blank">
+  <a href="https://www.linkedin.com/in/francsy" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-0867C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.francsy.dev" target="_blank">
+  <a href="https://www.francsy.dev" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-333138?style=for-the-badge&logo=read.cv&logoColor=white" alt="CV Badge"/>
   </a>
-  <a href="mailto:franvhdezr@gmail.com?subject=I am contacting you after seeing your github profile!">
+  <a href="mailto:franvhdezr@gmail.com?subject=I am contacting you after seeing your github profile!" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/mail&nbsp;me!-EAE1DF?style=for-the-badge&logo=Minutemailer&logoColor=black" alt="Mail Badge"/>
 
   </a>
@@ -120,7 +120,7 @@ Thanks for dropping by, hope you find some of my work interesting!!
 
 <div align="center"> 
 <a style="margin: 5px; text-decoration: none;" href="https://www.linkedin.com/in/franvhdez" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/> </picture>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/>
 </a>
 <a style="margin: 5px; text-decoration: none;" href="https://www.francsy.dev" target="_blank" rel="noreferrer">         
   <picture> 
