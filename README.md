@@ -75,7 +75,7 @@ Thanks for dropping by, hope you find some of my work interesting!!
 
 ### More info:
 
-* &nbsp;🌍&nbsp;&nbsp; I'm based in Spain.
+* &nbsp;🌍&nbsp;&nbsp; I'm based in Spain
 * &nbsp;<img src="./images/message.gif" width="20" />&nbsp; I'm open to collaborating
 * &nbsp;🖥️ &nbsp;  See my portfolio at [francsy.dev](http://www.francsy.dev)
 * &nbsp;🧠&nbsp; I'm currently learning Golang
